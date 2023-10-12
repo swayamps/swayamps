@@ -1,7 +1,4 @@
-- 👋 Hi, I’m Swayam
-- 👀 I’m interested in coding
-- 🌱 I’m currently pursuing btech-cse
-- 📫 Reach me @/swayamsah
+- 👋 Hi
 
 <!---
 swayamps/swayamps is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
